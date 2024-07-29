@@ -1,4 +1,4 @@
-                                                                            Air quality forecasting (Co2 Emissions)
+                      Air quality forecasting (Co2 Emissions)
 BUSINESS PROBLEM :
 - Carbon dioxide (CO2) emissions are the primary driver of global climate change. It is widely recognized that to avoid the worst impacts of climate change, the world needs to urgently 
   reduce emissions.
